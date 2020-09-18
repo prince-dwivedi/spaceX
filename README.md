@@ -14,14 +14,18 @@ Used node-fetch to call the api in server/index.js
 
 Axios Is used to to call the api from react component
 
-Web-view
+##### Web-view
 ![alt text](https://github.com/prince-dwivedi/spaceX/blob/master/snapshots/web-view.png)
 
-Mobile-view
+##### Mobile-view
 ![alt text](https://github.com/prince-dwivedi/spaceX/blob/master/snapshots/mobile-view.png)
 
-Source code 
+##### Tablet-view a-2 column view
+![alt text](https://github.com/prince-dwivedi/spaceX/blob/master/snapshots/tablet-view.png)
+
+##### server side rendered content - content in markup
+ 
 ![alt text](https://github.com/prince-dwivedi/spaceX/blob/master/snapshots/source-code.png)
 
-Light House Score
+##### Light House Score
 ![alt text](https://github.com/prince-dwivedi/spaceX/blob/master/snapshots/lighthouse.png)
