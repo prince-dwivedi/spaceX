@@ -1,6 +1,19 @@
 .App {
   text-align: center;
 }
+.year-filter{
+  padding-bottom: 1%;
+}
+.launch-success{
+  padding-top: 5%;
+}
+.list-heading{
+  color:darkblue;
+  font-weight: bold;
+}
+body{
+  background-color: #eee;
+}
 
 .App-logo {
   height: 40vmin;
